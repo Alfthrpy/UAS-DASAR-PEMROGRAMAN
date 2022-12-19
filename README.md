@@ -95,9 +95,6 @@ int main(){
 	if(flag){
 		cout << "Tidak adak bilangan yang habis dibagi 3,5, dan 7" << endl;
 	}
-	
-	
-	
 }
 ## Output
 <br>SOAL NO PERTAMA
