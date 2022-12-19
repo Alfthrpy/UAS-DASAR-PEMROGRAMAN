@@ -8,6 +8,7 @@
 <br> dalam repository ini ada dua program mengenai array dua dimensi, program pertama adalah program untuk transpose sebuah nilai matriks yang sebelumnya telah di input oleh user. lalu program kedua adalah program untuk menampilkan nilai dalam array dua dimensi yang habis dibagi 3,5, dan 7.
 
 ## Source code
+
 #include <iostream>
 using namespace std;
 
@@ -99,36 +100,36 @@ int main(){
 	
 }
 ## Output
-SOAL NO PERTAMA
-input jumlah baris dan kolom
-jumlah baris :2
-Jumlah kolom :2
-Masukan nilai nilai matriksnya:
-Masukan nilai baris ke-1 kolom ke-1: 1
-Masukan nilai baris ke-1 kolom ke-2: 2
-Masukan nilai baris ke-2 kolom ke-1: 3
-Masukan nilai baris ke-2 kolom ke-2: 4
-hasil matriks:
-1 2
-3 4
+<br>SOAL NO PERTAMA
+<br>input jumlah baris dan kolom
+<br>jumlah baris :2
+<br>Jumlah kolom :2
+<br>Masukan nilai nilai matriksnya:
+<br>Masukan nilai baris ke-1 kolom ke-1: 1
+<br>Masukan nilai baris ke-1 kolom ke-2: 2
+<br>Masukan nilai baris ke-2 kolom ke-1: 3
+<br>Masukan nilai baris ke-2 kolom ke-2: 4
+<br>hasil matriks:
+<br>1 2
+<br>3 4
 
-Transpose matriks
-hasil matriks:
-1 3
-2 4
+<br>Transpose matriks
+<br>hasil matriks:
+<br>1 3
+<br>2 4
 
-SOAL NO KEDUA
-input jumlah baris dan kolom
-jumlah baris :2
-Jumlah kolom :2
-Masukan nilai nilai matriksnya:
-Masukan nilai baris ke-1 kolom ke-1: 105
-Masukan nilai baris ke-1 kolom ke-2: 120
-Masukan nilai baris ke-2 kolom ke-1: 125
-Masukan nilai baris ke-2 kolom ke-2: 105
-hasil matriks:
-105 120
-125 105
+<br>SOAL NO KEDUA
+<br>input jumlah baris dan kolom
+<br>jumlah baris :2
+<br>Jumlah kolom :2
+<br>Masukan nilai nilai matriksnya:
+<br>Masukan nilai baris ke-1 kolom ke-1: 105
+<br>Masukan nilai baris ke-1 kolom ke-2: 120
+<br>Masukan nilai baris ke-2 kolom ke-1: 125
+<br>Masukan nilai baris ke-2 kolom ke-2: 105
+<br>hasil matriks:
+<br>105 120
+<br>125 105
 
-bilangan :105
-bilangan :105
+<br>bilangan :105
+<br>bilangan :105
