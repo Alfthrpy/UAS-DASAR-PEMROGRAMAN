@@ -105,7 +105,7 @@
 
 	}
 ## Output
-<img src = "C__Users_Lenovo_Documents_C++_DASAR PEMROGRAMAN_UAS DASPROG.exe 21_12_2022 09_50_20.png"/>
+<img src = "C__Users_Lenovo_Documents_C++_DASAR PEMROGRAMAN_UAS DASPROG.exe 21_12_2022 21_22_35.png"/>
 
 
 
